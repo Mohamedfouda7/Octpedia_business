@@ -6,19 +6,21 @@ providers can add offers and competitions and following these  offers flow .
 providers admin user can add users who will can used business applications.
 users can scan qr code for the customer to check the offer availability .
 admin can finish competitions and announces the winner .
-provider users can receive the orders and get notifications for new orders .![Screenshot_1656251756](https://user-images.githubusercontent.com/49006734/235340439-76688e2f-9a06-4174-83df-45d7d6f9ee2a.png)
-![Screenshot_1656251752](https://user-images.githubusercontent.com/49006734/235340441-cb1e09a2-c564-47bb-8ad1-cb4564602d9a.png)
-![Screenshot_1656251743](https://user-images.githubusercontent.com/49006734/235340443-f397a4ce-44dd-4a00-af42-3007213a6c98.png)
-![Screenshot_1656251544](https://user-images.githubusercontent.com/49006734/235340445-117baafd-d096-4ed2-9c04-328dc55c1b85.png)
-![Screenshot_1656249795](https://user-images.githubusercontent.com/49006734/235340446-f7443183-a07f-4ce5-859a-998d92caf3c7.png)
-![Screenshot_1656249759](https://user-images.githubusercontent.com/49006734/235340447-9ac610d0-e009-46c4-9711-8ada7e594f21.png)
-![Screenshot_1656249705](https://user-images.githubusercontent.com/49006734/235340449-bf8e34ee-952d-4247-bc81-b7c99c65aff7.png)
-![Screenshot_1656249700](https://user-images.githubusercontent.com/49006734/235340451-a6d09fe6-37ae-4448-8668-640989f528a5.png)
-![Screenshot_1656249691](https://user-images.githubusercontent.com/49006734/235340452-2152ce41-ad3f-41e3-8bc0-6f7cb1ea999c.png)
-![Screenshot_1656249684](https://user-images.githubusercontent.com/49006734/235340453-d0becedb-eccc-4481-a9fa-70afad627926.png)
-![Screenshot_1656249673](https://user-images.githubusercontent.com/49006734/235340454-8c253102-4fd2-4ecf-9b69-9da0db0651e6.png)
-![Screenshot_1656249668](https://user-images.githubusercontent.com/49006734/235340458-482962f6-70e5-4302-ab08-01c9a94636ad.png)
-![Screenshot_1656249662](https://user-images.githubusercontent.com/49006734/235340460-7d575d98-3212-408b-b957-ce96ce00a072.png)
-![Screenshot_1656249656](https://user-images.githubusercontent.com/49006734/235340461-1131dde6-5676-4bd5-af4a-4f49f7cd631e.png)
+provider users can receive the orders and get notifications for new orders .
+![Screenshot_1682840436](https://user-images.githubusercontent.com/49006734/235341727-50720838-c3ab-4c05-8d28-a21634277091.png)
+![Screenshot_1682840424](https://user-images.githubusercontent.com/49006734/235341729-89dda590-36f3-4fc3-ab52-223cf19c1dc4.png)
+![Screenshot_1682840397](https://user-images.githubusercontent.com/49006734/235341731-c665e0cc-051b-4c49-8067-5b10f8904170.png)
+![Screenshot_1682840351](https://user-images.githubusercontent.com/49006734/235341732-d63f6481-d242-4b79-8137-c286c4704ecc.png)
+![Screenshot_1682840337](https://user-images.githubusercontent.com/49006734/235341733-40293058-cc50-4c28-9732-2a7f74a393cd.png)
+![Screenshot_1682840330](https://user-images.githubusercontent.com/49006734/235341734-0aac7520-ebad-4e86-99b1-c19d339bfec1.png)
+![Screenshot_1682840309](https://user-images.githubusercontent.com/49006734/235341735-bc2fba74-bf30-4b37-8ba6-b4073f9ba647.png)
+![Screenshot_1682840289](https://user-images.githubusercontent.com/49006734/235341736-c60ff42f-f499-4cb9-8c55-5c1867286177.png)
+![Screenshot_1682840275](https://user-images.githubusercontent.com/49006734/235341737-708182d0-5e71-4713-b498-2503ca96fc4d.png)
+![Screenshot_1682840262](https://user-images.githubusercontent.com/49006734/235341739-0cfe6ca3-f4dd-48c1-8196-eded2f8d53f5.png)
+![Screenshot_1682840252](https://user-images.githubusercontent.com/49006734/235341741-06b9e1d0-7297-4798-a26d-e8d3177bca39.png)
+![Screenshot_1682840246](https://user-images.githubusercontent.com/49006734/235341742-36b494cf-e7d3-44a8-a518-bd224531ab38.png)
+![Screenshot_1682840241](https://user-images.githubusercontent.com/49006734/235341743-ec552069-8576-41f8-834d-ca4aafc60f0b.png)
+![Screenshot_1656249656](https://user-images.githubusercontent.com/49006734/235341760-a1e6165c-ade9-4fbf-ae8f-213daa47a6d3.png)
+
 
 
